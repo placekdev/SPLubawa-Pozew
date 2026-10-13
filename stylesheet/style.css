@@ -1,0 +1,23 @@
+body{
+background-color:rgb(200, 200, 130);
+font-family: 'Comfortaa';
+src: url('./font/comfortaa/Comfortaa-VariableFont_wght.ttf') format('ttf');
+}
+.title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+}
+.title:hover{
+    color: rgb(10, 200, 240);
+}
+.link{
+    font-size: x-large;
+    color: rgb(10, 20, 240);
+}
+.link:hover{
+    font-size: xx-large;
+    color: rgb(80, 50, 255);
+}
